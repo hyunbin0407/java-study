@@ -1,4 +1,4 @@
-# Day03 - loop
+# Day04 - loop
 
 ## 공부 내용
 - while문
