@@ -21,3 +21,5 @@
 - Day 02 | 연산자 공부 |
 - Day 03 | if문 공부 |
 - Day 04 | loop문 공부 |
+- Day 05 | Scope 공부 |
+- Day 06 | Scanner 공부 |
