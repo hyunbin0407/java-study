@@ -23,3 +23,4 @@
 - Day 04 | loop문 공부 |
 - Day 05 | Scope 공부 |
 - Day 06 | Scanner 공부 |
+- Day 07 | Array 공부 |
