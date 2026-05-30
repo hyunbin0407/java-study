@@ -25,3 +25,4 @@
 - Day 06 | Scanner 공부 |
 - Day 07 | Array 공부 |
 - Day 08 | method 공부 |
+- Day 09 | 클래스, 데이터 공부 |
